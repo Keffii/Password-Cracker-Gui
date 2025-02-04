@@ -1,0 +1,8 @@
+C:\Users\keffi\Documents\C++\Imgui\ImguiApp\imgui.cpp;C:\Users\keffi\Documents\C++\Imgui\ImguiApp\examples\example_win32_directx9\Release\imgui.obj
+C:\Users\keffi\Documents\C++\Imgui\ImguiApp\imgui_demo.cpp;C:\Users\keffi\Documents\C++\Imgui\ImguiApp\examples\example_win32_directx9\Release\imgui_demo.obj
+C:\Users\keffi\Documents\C++\Imgui\ImguiApp\imgui_draw.cpp;C:\Users\keffi\Documents\C++\Imgui\ImguiApp\examples\example_win32_directx9\Release\imgui_draw.obj
+C:\Users\keffi\Documents\C++\Imgui\ImguiApp\imgui_tables.cpp;C:\Users\keffi\Documents\C++\Imgui\ImguiApp\examples\example_win32_directx9\Release\imgui_tables.obj
+C:\Users\keffi\Documents\C++\Imgui\ImguiApp\imgui_widgets.cpp;C:\Users\keffi\Documents\C++\Imgui\ImguiApp\examples\example_win32_directx9\Release\imgui_widgets.obj
+C:\Users\keffi\Documents\C++\Imgui\ImguiApp\backends\imgui_impl_dx9.cpp;C:\Users\keffi\Documents\C++\Imgui\ImguiApp\examples\example_win32_directx9\Release\imgui_impl_dx9.obj
+C:\Users\keffi\Documents\C++\Imgui\ImguiApp\backends\imgui_impl_win32.cpp;C:\Users\keffi\Documents\C++\Imgui\ImguiApp\examples\example_win32_directx9\Release\imgui_impl_win32.obj
+C:\Users\keffi\Documents\C++\Imgui\ImguiApp\examples\example_win32_directx9\main.cpp;C:\Users\keffi\Documents\C++\Imgui\ImguiApp\examples\example_win32_directx9\Release\main.obj
